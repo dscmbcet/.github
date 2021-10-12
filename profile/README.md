@@ -1,6 +1,6 @@
 ![GDSC MBCET LOGO](https://raw.githubusercontent.com/dscmbcet/.github/6885c944d5ad6fe083170f861224605d46fb2f6a/profile/assets/logo.svg)
 
-Google Developer Student Club, powered by Google Developers is an initiative to grow their knowledge on developer technologies and more through peer to peer workshops and events, and gain relevant industry experience.
+Google Developer Student Club, entertained by Google Developers is an initiative to nurture their knowledge on developer technologies and more through peer to peer workshops and events, and gain relevant industry experience.
 
 # Our Vision
 
