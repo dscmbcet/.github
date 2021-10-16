@@ -30,4 +30,4 @@ Google Developer Student Club, powered by Google Developers is an initiative to 
 
 - [Data Structures And Algorithms](https://github.com/dscmbcet/Data-structures-and-Algorithms)
 - [ML With Python](https://github.com/dscmbcet/ML-with-Python)
-<!-- - [Hacktober Fest 2021](https://github.com/dscmbcet/hacktoberfest-2021) -->
+- [Hacktober Fest 2021](https://github.com/dscmbcet/hacktoberfest-2021)
